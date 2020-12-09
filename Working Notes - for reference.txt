@@ -1,0 +1,35 @@
+windows/doors
+
+Room class
+Wall1 - decimal (length * height)
+Wall2 - decimal (width * height)
+Volume - decimal (width * length * height)
+FloorArea - decimal (width * length)
+
+!!! add windows & doors calculation first !!!
+Paint - ??? (2(Wall1 + Wall2) /10 - round function (if Walls > Math.Round(Walls)
+
+var ValidInput = false;
+
+            frmDoorsAndWindows Form1 = new frmDoorsAndWindows();
+            Form1.ShowDialog(); // Shows Form2
+            frmDoorsAndWindows Form2 = new frmDoorsAndWindows();
+            frmDoorsAndWindows Form3 = new frmDoorsAndWindows();
+
+test public array - if top line needed - maybe put in class
+
+window class
+number
+width
+height
+
+door class
+
+single door+window class (openings?)
+count = 0
+width
+height
+ID - return count += 1
+area - width * height
+
+why did i use an array on the homepage??
