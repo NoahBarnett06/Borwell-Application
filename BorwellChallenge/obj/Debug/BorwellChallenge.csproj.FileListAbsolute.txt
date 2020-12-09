@@ -1,0 +1,34 @@
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.exe.config
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.exe
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.pdb
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmPaintCalculator.resources
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmResults.resources
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.exe
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.pdb
+c:\users\my pc\documents\visual studio 2017\Projects\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmDoorsAndWindows.resources
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.exe.config
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.exe
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.pdb
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmPaintCalculator.resources
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.Properties.Resources.resources
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmResults.resources
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.exe
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.pdb
+C:\Users\My PC\Desktop\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmOpenings.resources
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.exe.config
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.exe
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.pdb
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmOpenings.resources
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmPaintCalculator.resources
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.Properties.Resources.resources
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.frmResults.resources
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.exe
+C:\Users\Administrator\Documents\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.pdb
