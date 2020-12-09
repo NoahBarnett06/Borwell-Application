@@ -3,8 +3,8 @@ Hi, I am Noah Barnett and this is my application to Borwell with the software de
 
 # How to run the application
 First you will need to download the zipped file of the repository and then extract all of the files.
-Then you just need to open the file titled 'BorwellChallenge.sln' to load the program in visual studios.
-Alternatively if only want to run the application without seeing the code in visual studios, you can follow the file path BorwellChallenge/bin/Debug and open the file named 'BorwellChallenge.exe'.
+Then you just need to open the file titled 'BorwellChallenge.sln' to load the program in Visual Studios.
+Alternatively if only want to run the application without seeing the code in Visual Studios, you can follow the file path BorwellChallenge/bin/Debug and open the file named 'BorwellChallenge.exe'.
 
 # Assumptions made
 - The room is eaither a square or rectangluar shape
