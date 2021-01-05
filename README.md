@@ -7,7 +7,7 @@ Then you just need to open the file titled 'BorwellChallenge.sln' to load the pr
 Alternatively if only want to run the application without seeing the code in Visual Studios, you can follow the file path BorwellChallenge/bin/Debug and open the file named 'BorwellChallenge.exe'.
 
 # Assumptions made
-- The room is eaither a square or rectangluar shape
+- The room is either a square or rectangluar shape
 - 1 litre of paint covers 10 metres squared
 
 # Future improvements I would make with more time
